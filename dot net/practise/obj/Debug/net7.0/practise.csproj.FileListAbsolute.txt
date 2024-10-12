@@ -1,0 +1,14 @@
+D:\VITA DAC 2024\Project\dot net backend\practise\bin\Debug\net7.0\practise.exe
+D:\VITA DAC 2024\Project\dot net backend\practise\bin\Debug\net7.0\practise.deps.json
+D:\VITA DAC 2024\Project\dot net backend\practise\bin\Debug\net7.0\practise.runtimeconfig.json
+D:\VITA DAC 2024\Project\dot net backend\practise\bin\Debug\net7.0\practise.dll
+D:\VITA DAC 2024\Project\dot net backend\practise\bin\Debug\net7.0\practise.pdb
+D:\VITA DAC 2024\Project\dot net backend\practise\obj\Debug\net7.0\practise.GeneratedMSBuildEditorConfig.editorconfig
+D:\VITA DAC 2024\Project\dot net backend\practise\obj\Debug\net7.0\practise.AssemblyInfoInputs.cache
+D:\VITA DAC 2024\Project\dot net backend\practise\obj\Debug\net7.0\practise.AssemblyInfo.cs
+D:\VITA DAC 2024\Project\dot net backend\practise\obj\Debug\net7.0\practise.csproj.CoreCompileInputs.cache
+D:\VITA DAC 2024\Project\dot net backend\practise\obj\Debug\net7.0\practise.dll
+D:\VITA DAC 2024\Project\dot net backend\practise\obj\Debug\net7.0\refint\practise.dll
+D:\VITA DAC 2024\Project\dot net backend\practise\obj\Debug\net7.0\practise.pdb
+D:\VITA DAC 2024\Project\dot net backend\practise\obj\Debug\net7.0\practise.genruntimeconfig.cache
+D:\VITA DAC 2024\Project\dot net backend\practise\obj\Debug\net7.0\ref\practise.dll
